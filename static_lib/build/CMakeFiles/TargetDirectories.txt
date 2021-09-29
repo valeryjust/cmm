@@ -1,0 +1,4 @@
+/root/static_lib/build/CMakeFiles/rebuild_cache.dir
+/root/static_lib/build/CMakeFiles/edit_cache.dir
+/root/static_lib/build/CMakeFiles/hello_library.dir
+/root/static_lib/build/CMakeFiles/hello_binary.dir

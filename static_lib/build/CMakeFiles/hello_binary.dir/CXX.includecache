@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/static_lib/include/static/Hello.h
+
+/root/static_lib/src/main.cpp
+/root/static_lib/include/static/Hello.h
+-
+
